@@ -6,16 +6,16 @@
       "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
     },
     "mandante": {
-    "nome": "Brasil",
-    "forca": 5,
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/br.webp"
+      "nome": "Brasil",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/br.webp"
     },
     "visitante": {
       "nome": "Argentina",
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ar.webp"
     }
-  }
+  },
   { 
     "descricao" : "Eliminatórias Copa 2022",
     "local": {
@@ -23,26 +23,26 @@
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Estadio_Centenario_Montevideo_Uruguay.jpg"
     },
     "mandante": {
-    "nome": "Uruguay",
-    "forca": 4,
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/uy.webp"
+      "nome": "Uruguay",
+      "forca": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/uy.webp"
     },
     "visitante": {
       "nome": "Brasil",
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/br.webp"
     }
-  }
-{ 
+  },
+  { 
     "descricao" : "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
       "imagem": "https://s2.glbimg.com/suGCe4ejLm9so9QpJHmx9JV2rug=/0x0:1600x747/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2021/k/5/2GuPDsRnSFfzez0rASWg/whatsapp-image-2021-07-06-at-17.41.11.jpeg"
     },
     "mandante": {
-    "nome": "Brasil",
-    "forca": 5,
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/br.webp"
+      "nome": "Brasil",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/br.webp"
     },
     "visitante": {
       "nome": "Colombia",
